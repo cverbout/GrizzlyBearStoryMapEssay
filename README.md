@@ -34,11 +34,11 @@ Map 2A           						|  Map 2B
 
 ## Pros and Cons
 
-### Cons
+### Pros
 
 Now, I will assess my view of the features provided by establishing several pros and cons for this work. To begin, let's look at the positives - I really appreciated the smoothness to moving about this project. The transitions are seamless as you move down the page and create a great illusion of interactivity in the presented maps. On top of this, the text used is complementary to the images and not the driving force. Small paragraphs work symbiotically with the photographs and maps to keep you engaged. There is never a point where the text gets overwhelming in length keeping the viewer engaged. The use of bold text in paragraphs even further simplifies the process for the reader giving them the key points as they go along. The maps themselves are sized appropriately making it easy to see what is going on and being presented. The color schemes in the maps do not conflict however I have nothing further to say in this section about them. Unfortunately, most of the cons are centered in this area.
 
-### Pros
+### Cons
 
 For starters, map one is the only map to use a legend. I would have liked to see this map either use the same faux interactivity as the other two (scroll to show a new layer) or be truly interactive (click boxes). It seems we are to assume that the historic range is included in all of the current range however we can not know this for sure hence my point about interactivity. This map does not include a scalar bar or a north arrow but this is consistent with all of the maps. It could definitely use some supplemental web map features. Map 2, while explaining the colors in the text on the side needs to have a legend. Not only that but as you scroll the meaning for the coloring actually changes. I think it would have been best to maintain the same meaning for the color while making the new color take on the new value. This map also needs supplemental web map features. Map 3, the most complex of the bunch as it uses esri geoprocessing tools, even more than the last needs a legend. Using a gradual color scale, we have no idea what they represent other than being told in the text that yellow indicates the paths. Once more, there are no web map features and there really ought to be but I digress. All of my cons lie in the map design but that is not to say they aren’t adequate. They get the job done, but I think there is a lot left that could have been done.
 
